@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
+
 ATTACKER_RATE = 0.25
 HONEST_RATE = 1 - ATTACKER_RATE
 MAXIMUM_BLOCK_ADVANTAGE = 30
