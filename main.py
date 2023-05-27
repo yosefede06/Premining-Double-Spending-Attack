@@ -1,5 +1,6 @@
 import copy
 import numpy as np
+import pandas as pd
 import plotly.express as px
 
 ATTACKER_RATE = 0.25
